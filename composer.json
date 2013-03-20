@@ -1,0 +1,15 @@
+{
+	"name": "sim/keypad",
+	"type": "jQuery-plugin",
+	"title": "jQuery Keypad",
+	"description": "This plugin attaches a popup keyboard to a text field for mouse-driven entry or adds an inline keypad in a division or span. * Customise keypad content. * Preset keyboard layouts. * Randomise key positions. * 9 localisations.",
+	"keywords": ["i18n", "input", "keyboard", "keypad", "ui"],
+	"author": {
+		"name": "Pavel Plutakhin",
+		"email": "117keys@gmail.com"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"jquery": ">=1.6"
+	}
+}
